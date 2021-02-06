@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <Jumbotron fluid>
           <Container fluid>
-            <img src="images/logo.png"></img>
+            <img src="images/logo.png" width="600" alt="Vegan Jerky Deathmatch Logo"></img>
           </Container>
         </Jumbotron>
       </div>
