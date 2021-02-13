@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/veganjdm/static/css/main.8787c0c2.chunk.css",
-    "main.js": "/veganjdm/static/js/main.3c150236.chunk.js",
-    "main.js.map": "/veganjdm/static/js/main.3c150236.chunk.js.map",
-    "runtime-main.js": "/veganjdm/static/js/runtime-main.ac35b85f.js",
-    "runtime-main.js.map": "/veganjdm/static/js/runtime-main.ac35b85f.js.map",
+    "main.css": "/veganjdm/static/css/main.a94eabbf.chunk.css",
+    "main.js": "/veganjdm/static/js/main.ca32a649.chunk.js",
+    "main.js.map": "/veganjdm/static/js/main.ca32a649.chunk.js.map",
+    "runtime-main.js": "/veganjdm/static/js/runtime-main.fc0d6cb0.js",
+    "runtime-main.js.map": "/veganjdm/static/js/runtime-main.fc0d6cb0.js.map",
     "static/css/2.150d169a.chunk.css": "/veganjdm/static/css/2.150d169a.chunk.css",
-    "static/js/2.7a77b89d.chunk.js": "/veganjdm/static/js/2.7a77b89d.chunk.js",
-    "static/js/2.7a77b89d.chunk.js.map": "/veganjdm/static/js/2.7a77b89d.chunk.js.map",
-    "static/js/3.29a5574b.chunk.js": "/veganjdm/static/js/3.29a5574b.chunk.js",
-    "static/js/3.29a5574b.chunk.js.map": "/veganjdm/static/js/3.29a5574b.chunk.js.map",
+    "static/js/2.eccd7ce6.chunk.js": "/veganjdm/static/js/2.eccd7ce6.chunk.js",
+    "static/js/2.eccd7ce6.chunk.js.map": "/veganjdm/static/js/2.eccd7ce6.chunk.js.map",
+    "static/js/3.666363d2.chunk.js": "/veganjdm/static/js/3.666363d2.chunk.js",
+    "static/js/3.666363d2.chunk.js.map": "/veganjdm/static/js/3.666363d2.chunk.js.map",
     "index.html": "/veganjdm/index.html",
     "static/css/2.150d169a.chunk.css.map": "/veganjdm/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.8787c0c2.chunk.css.map": "/veganjdm/static/css/main.8787c0c2.chunk.css.map",
-    "static/js/2.7a77b89d.chunk.js.LICENSE.txt": "/veganjdm/static/js/2.7a77b89d.chunk.js.LICENSE.txt",
+    "static/css/main.a94eabbf.chunk.css.map": "/veganjdm/static/css/main.a94eabbf.chunk.css.map",
+    "static/js/2.eccd7ce6.chunk.js.LICENSE.txt": "/veganjdm/static/js/2.eccd7ce6.chunk.js.LICENSE.txt",
     "static/media/logo.7a908507.png": "/veganjdm/static/media/logo.7a908507.png",
     "static/media/louisville_header.26b880c7.jpg": "/veganjdm/static/media/louisville_header.26b880c7.jpg",
     "static/media/primal_spirit_header.a0e1a247.jpg": "/veganjdm/static/media/primal_spirit_header.a0e1a247.jpg",
     "static/media/solely_header.115a7291.jpg": "/veganjdm/static/media/solely_header.115a7291.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac35b85f.js",
+    "static/js/runtime-main.fc0d6cb0.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.7a77b89d.chunk.js",
-    "static/css/main.8787c0c2.chunk.css",
-    "static/js/main.3c150236.chunk.js"
+    "static/js/2.eccd7ce6.chunk.js",
+    "static/css/main.a94eabbf.chunk.css",
+    "static/js/main.ca32a649.chunk.js"
   ]
 }
