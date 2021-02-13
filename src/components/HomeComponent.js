@@ -9,8 +9,40 @@ function Home(props) {
     <div className="container">
       <div className="row">
         <div className="col-md m-1">
+          <h1>Top 3 current pound for pound ranking:</h1>
+          <CardDeck>
+            <Card style={{ width: "20rem" }}>
+              <CardImg
+                width="100%"
+                src={louisville}
+                alt="Lousville Vegan Jerky"
+              />
+              <CardImgOverlay>
+                <CardTitle>Number 1: Louisville Vegan Jerky Co.</CardTitle>
+              </CardImgOverlay>
+            </Card>
+            <Card style={{ width: "20rem" }}>
+              <CardImg
+                width="100%"
+                src={primal}
+                alt="Primal Spirit Vegan Jerky"
+              />
+              <CardImgOverlay>
+                <CardTitle>
+                  Number 2: Primal Spirit Foods Primal Strips
+                </CardTitle>
+              </CardImgOverlay>
+            </Card>
+            <Card style={{ width: "20rem" }}>
+              <CardImg width="100%" src={solely} alt="Solely Vegan Jerky" />
+              <CardImgOverlay>
+                <CardTitle>Number 3: Solely Organic Fruit Jerky</CardTitle>
+              </CardImgOverlay>
+            </Card>
+          </CardDeck>
+          <hr />
           <h1>
-            Vegan jerky can be the most amazing carniverous simulating snack .
+            Vegan jerky can be the most amazing carniverous simulating snack.
           </h1>
           <p>
             That amazing texture, chew, spice and satisfaction you remember from
@@ -50,38 +82,6 @@ function Home(props) {
               any important factors for your consideration.
             </li>
           </ul>
-          <hr />
-          <h1>Top 3 current pound for pound ranking:</h1>
-          <CardDeck>
-            <Card style={{ width: "20rem" }}>
-              <CardImg
-                width="100%"
-                src={louisville}
-                alt="Lousville Vegan Jerky"
-              />
-              <CardImgOverlay>
-                <CardTitle>Number 1: Louisville Vegan Jerky Co.</CardTitle>
-              </CardImgOverlay>
-            </Card>
-            <Card style={{ width: "20rem" }}>
-              <CardImg
-                width="100%"
-                src={primal}
-                alt="Primal Spirit Vegan Jerky"
-              />
-              <CardImgOverlay>
-                <CardTitle>
-                  Number 2: Primal Spirit Foods Primal Strips
-                </CardTitle>
-              </CardImgOverlay>
-            </Card>
-            <Card style={{ width: "20rem" }}>
-              <CardImg width="100%" src={solely} alt="Solely Vegan Jerky" />
-              <CardImgOverlay>
-                <CardTitle>Number 3: Solely Organic Fruit Jerky</CardTitle>
-              </CardImgOverlay>
-            </Card>
-          </CardDeck>
         </div>
       </div>
       <hr />
