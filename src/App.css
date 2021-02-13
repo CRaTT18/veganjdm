@@ -4,19 +4,19 @@ body {
   font-family: "Permanent Marker", cursive;
 }
 
-.navbar-dark {
+.navbar-dark, .nav-link {
   background-color: #ed2024;
   font-size: 2rem;
   font-family: "Permanent Marker", cursive;
 }
 
-h1, h2, h3 {
+h1, h2, h3, .card-body>.card-title {
   font-family: "Permanent Marker", cursive;
 }
 
 p, li {
   font-family: Roboto, sans-serif;
-  font-size: 1.75rem;
+  font-size: 1.50rem;
 }
 
 .card-title {
@@ -37,4 +37,17 @@ p, li {
 .axe-small:hover {
   transition: 2s;
   transform: rotate(450deg);
+}
+
+.bigaxe {
+  animation: spin 1s linear 2;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotateZ(0);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
 }

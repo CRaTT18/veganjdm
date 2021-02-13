@@ -34,7 +34,7 @@ function Home(props) {
             </li>
             <li>
               <strong>Texture:</strong> Mouth feel, is it jerky, fruit rollup or
-              tofu feeeling?
+              tofu feeling?
             </li>
             <li>
               <strong>Chew:</strong> One of the most important factors in vegan
