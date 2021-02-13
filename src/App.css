@@ -4,7 +4,13 @@ body {
   font-family: "Permanent Marker", cursive;
 }
 
-h1, h2, h3, .card-body>.card-title {
+.navbar-dark {
+  background-color: #ed2024;
+  font-size: 2rem;
+  font-family: "Permanent Marker", cursive;
+}
+
+h1, h2, h3 {
   font-family: "Permanent Marker", cursive;
 }
 
@@ -26,12 +32,6 @@ p, li {
   padding: 50px 0;
   border-bottom: 1px ridge;
   min-height: 200px;
-}
-
-.navbar-dark {
-  background-color: #ed2024;
-  font-size: 2rem;
-  font-family: "Permanent Marker", cursive;
 }
 
 .axe-small:hover {

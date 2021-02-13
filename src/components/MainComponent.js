@@ -7,11 +7,6 @@ import Rankings from "./RankingsComponent";
 import { Switch, Route, Redirect } from "react-router-dom";
 import { COMBATANTS } from "../shared/combatants";
 
-const mapStateToProps = state => {
-  return {
-      combatants: state.combatants,
-  }
-}
 
 class Main extends Component {
   constructor(props) {

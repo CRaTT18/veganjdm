@@ -1,17 +1,8 @@
 import React from "react";
-import { Card, CardImg, CardText, CardBody, CardTitle } from 'reactstrap';
-
-function RenderCard({item}) {
-    return (
-        <Card>
-            <CardImg src={item.image} alt={item.name} />
-            <CardBody>
-                <CardTitle>{item.name}</CardTitle>
-                <CardText>{item.description}</CardText>
-            </CardBody>
-        </Card>
-    );
-}
+import { Card, CardImg, CardImgOverlay, CardDeck, CardTitle } from "reactstrap";
+import louisville from "../images/louisville_header.jpg";
+import primal from "../images/primal_spirit_header.jpg";
+import solely from "../images/solely_header.jpg";
 
 function Home(props) {
   return (
@@ -61,19 +52,39 @@ function Home(props) {
           </ul>
           <hr />
           <h1>Top 3 current pound for pound ranking:</h1>
-          <div className="row">
-        <div className="col-md m-1">
-          <RenderCard item={props.combatant} />
-        </div>
-        <div className="col-md m-1">
-          <RenderCard item={props.combatant} />
-        </div>
-        <div className="col-md m-1">
-          <RenderCard item={props.combatant} />
+          <CardDeck>
+            <Card style={{ width: "20rem" }}>
+              <CardImg
+                width="100%"
+                src={louisville}
+                alt="Lousville Vegan Jerky"
+              />
+              <CardImgOverlay>
+                <CardTitle>Number 1: Louisville Vegan Jerky Co.</CardTitle>
+              </CardImgOverlay>
+            </Card>
+            <Card style={{ width: "20rem" }}>
+              <CardImg
+                width="100%"
+                src={primal}
+                alt="Primal Spirit Vegan Jerky"
+              />
+              <CardImgOverlay>
+                <CardTitle>
+                  Number 2: Primal Spirit Foods Primal Strips
+                </CardTitle>
+              </CardImgOverlay>
+            </Card>
+            <Card style={{ width: "20rem" }}>
+              <CardImg width="100%" src={solely} alt="Solely Vegan Jerky" />
+              <CardImgOverlay>
+                <CardTitle>Number 3: Solely Organic Fruit Jerky</CardTitle>
+              </CardImgOverlay>
+            </Card>
+          </CardDeck>
         </div>
       </div>
-        </div>
-      </div>
+      <hr />
     </div>
   );
 }
