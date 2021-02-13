@@ -75,8 +75,8 @@ class Header extends Component {
           </div>
         </Navbar>
         <div className="row m-5">
-          <a href="/" className="mx-auto">
-            <img src={logo} width="1000" alt="Vegan jerky deathmatch logo" />
+          <a href="/home" className="mx-auto">
+            <img src={logo} className="img-fluid" width="1000" alt="Vegan jerky deathmatch logo" />
           </a>
         </div>
         <hr />

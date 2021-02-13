@@ -44,20 +44,20 @@ function Home(props) {
             contender on any given day with taste even a carnivore can like.
           </p>
           <hr />
-          <h1>
+          <h2>
             Vegan jerky can be the most amazing carniverous simulating snack.
-          </h1>
+          </h2>
           <p>
             That classic texture, chew, spice and satisfaction you remember from
             your cheeseburger slaying meat eating days.
           </p>
-          <h1>It can also execute your tastebuds if you grab the wrong bag.</h1>
+          <h2>It can also execute your tastebuds if you grab the wrong bag.</h2>
           <p>
             Like biting in to a banana peel marinated in broccoli and gym socks.
           </p>
-          <h1>
+          <h2>
             We're here to keep you from snapping in to a bad vegan jerky trip.
-          </h1>
+          </h2>
           <hr />
           <h2>How's it work?</h2>
           <p>

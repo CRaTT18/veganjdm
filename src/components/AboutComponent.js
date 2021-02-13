@@ -12,7 +12,7 @@ function About(props) {
           <h1>About</h1>
           <hr />
           <p>
-            About 8 years ago it was brought to my attention that if I did not
+            Around 9 years ago it was brought to my attention that if I did not
             change my ways I could expect to stroke out in 10-15 years due to
             high blood pressure and being overweight. My wife was already
             vegetarian so I started looking in to ways I could improve my health
