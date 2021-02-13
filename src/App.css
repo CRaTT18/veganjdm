@@ -16,7 +16,7 @@ h1, h2, h3, .card-body>.card-title {
 
 p, li {
   font-family: Roboto, sans-serif;
-  font-size: 1.50rem;
+  font-size: 1.25rem;
 }
 
 .card-title {
@@ -50,4 +50,10 @@ p, li {
   100% {
     transform: rotateZ(360deg);
   }
+}
+
+.card:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
+  box-shadow: 5px 10px 18px #160101;
 }

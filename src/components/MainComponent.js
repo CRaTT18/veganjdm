@@ -4,6 +4,7 @@ import Home from "./HomeComponent";
 import About from "./AboutComponent";
 import Match from "./MatchComponent";
 import Rankings from "./RankingsComponent";
+import Contact from "./ContactComponent";
 import { Switch, Route, Redirect } from "react-router-dom";
 import { COMBATANTS } from "../shared/combatants";
 
@@ -29,6 +30,7 @@ class Main extends Component {
         <Switch>
           <Route path="/home" component={HomePage} />
           <Route exact path="/aboutus" component={About} />
+          <Route exact path="/contactus" component={Contact} />
           <Route exact path="/match" component={Match} />
           <Route exact path="/rankings" component={Rankings} />
           <Redirect to="/home" />

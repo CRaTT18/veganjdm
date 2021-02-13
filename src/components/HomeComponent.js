@@ -18,7 +18,7 @@ function Home(props) {
                 alt="Lousville Vegan Jerky"
               />
               <CardImgOverlay>
-                <CardTitle>Number 1: Louisville Vegan Jerky Co.</CardTitle>
+                <CardTitle>#1: Louisville Vegan Jerky Co.</CardTitle>
               </CardImgOverlay>
             </Card>
             <Card style={{ width: "20rem" }}>
@@ -28,24 +28,27 @@ function Home(props) {
                 alt="Primal Spirit Vegan Jerky"
               />
               <CardImgOverlay>
-                <CardTitle>
-                  Number 2: Primal Spirit Foods Primal Strips
-                </CardTitle>
+                <CardTitle>#2: Primal Spirit Foods Primal Strips</CardTitle>
               </CardImgOverlay>
             </Card>
             <Card style={{ width: "20rem" }}>
               <CardImg width="100%" src={solely} alt="Solely Vegan Jerky" />
               <CardImgOverlay>
-                <CardTitle>Number 3: Solely Organic Fruit Jerky</CardTitle>
+                <CardTitle>#3: Solely Organic Fruit Jerky</CardTitle>
               </CardImgOverlay>
             </Card>
           </CardDeck>
+          <br />
+          <p>
+            You can't go wrong with the top 3, any one of them is a top
+            contender on any given day with taste even a carnivore can like.
+          </p>
           <hr />
           <h1>
             Vegan jerky can be the most amazing carniverous simulating snack.
           </h1>
           <p>
-            That amazing texture, chew, spice and satisfaction you remember from
+            That classic texture, chew, spice and satisfaction you remember from
             your cheeseburger slaying meat eating days.
           </p>
           <h1>It can also execute your tastebuds if you grab the wrong bag.</h1>
@@ -57,7 +60,11 @@ function Home(props) {
           </h1>
           <hr />
           <h2>How's it work?</h2>
-          <p>Simple, we buy vegan jerky and taste it, then report back.</p>
+          <p>
+            Simple, we buy vegan jerky and taste it, then report back. Click on
+            the links at the top to see rankings and matches to see what happens
+            when jerkys go toe to toe.
+          </p>
           <h2>The Categories:</h2>
           <ul>
             <li>
@@ -74,14 +81,22 @@ function Home(props) {
               dissolve on contact like a vodka soaked gummy bear?
             </li>
             <li>
-              <strong>Construction:</strong> What's it based on..Ie: Soy,
-              Seitan, Fruit, etc..
+              <strong>Construction:</strong> What's it based on? Soy, Seitan,
+              Fruit, Realigned Pea Protein etc..
             </li>
             <li>
               <strong>Notes:</strong> A brief description of the experience and
               any important factors for your consideration.
             </li>
           </ul>
+          <h2>What if a brand has more then one flavor?</h2>
+          <p>
+            Then we'll choose our favorite for the ranked jerky and list other
+            notable flavors or disappointments from the same brand in the notes
+            section. From my experience the big hitters don't put out bad
+            flavors, they're at the top for a reason.
+          </p>
+          <h2>So keep it above the belt and let's get it on!</h2>
         </div>
       </div>
       <hr />
