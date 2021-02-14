@@ -24,7 +24,7 @@ function About(props) {
             <br />
             <br />
             One of the things I miss about being obese is eating beef jerky,
-            terriyaki sticks and pepperoni in massive quantities. That has lead
+            teriyaki sticks and pepperoni in massive quantities. That has lead
             me to many failed attempts at making my own substitutes and trying
             many disgusting attempts by others. I'm also in a coding bootcamp
             and needed a project to make in React. Hence, Vegan Jerky Deathmatch
@@ -37,7 +37,7 @@ function About(props) {
               where you're seeking out the best vegan jerky you probably already
               know the answer. Vegan jerky like real beef jerky is a processed
               snack. Processed snacks are usually not that "healthy". There are
-              exceptions to every rule however and bottom line, if you want to
+              exceptions to every rule however. Bottom line, if you want to
               know if it's good for you, read the label, see what's in it and
               how it's made.
             </p>

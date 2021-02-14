@@ -6,14 +6,14 @@ import Match from "./MatchComponent";
 import Rankings from "./RankingsComponent";
 import Contact from "./ContactComponent";
 import { Switch, Route, Redirect } from "react-router-dom";
-import { COMBATANTS } from "../shared/combatants";
+import { JERKYS } from "../shared/Jerkys";
 
 
 class Main extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      combatants: COMBATANTS,
+      jerkys: JERKYS,
     };
   }
 
@@ -32,7 +32,7 @@ class Main extends Component {
           <Route exact path="/aboutus" component={About} />
           <Route exact path="/contactus" component={Contact} />
           <Route exact path="/match" component={Match} />
-          <Route exact path="/rankings" component={Rankings} />
+          <Route exact path="/rankings" render={() => <Rankings jerkys={this.state.jerkys} />} />
           <Redirect to="/home" />
         </Switch>
       </div>

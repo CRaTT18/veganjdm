@@ -77,7 +77,7 @@ function Home(props) {
             </li>
             <li>
               <strong>Chew:</strong> One of the most important factors in vegan
-              jerky. Does it have a long lasting traditional chew or does it
+              jerky. Does it have a long lasting traditional jerky chew or does it
               dissolve on contact like a vodka soaked gummy bear?
             </li>
             <li>
