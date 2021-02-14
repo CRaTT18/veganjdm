@@ -35,12 +35,12 @@ p, li {
 }
 
 .axe-small:hover {
-  transition: 2s;
+  transition: 1s;
   transform: rotate(450deg);
 }
 
 .bigaxe {
-  animation: spin 1s linear 2;
+  animation: spin 1s linear 1;
 }
 
 @keyframes spin {
@@ -48,7 +48,7 @@ p, li {
     transform: rotateZ(0);
   }
   100% {
-    transform: rotateZ(360deg);
+    transform: rotateZ(720deg);
   }
 }
 
