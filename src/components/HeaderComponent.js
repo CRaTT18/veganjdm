@@ -89,7 +89,7 @@ class Header extends Component {
             </Collapse>
           </div>
         </Navbar>
-        <div className="row m-5">
+        <div className="row m-4">
           <img
             src={logo}
             className="mx-auto img-fluid"

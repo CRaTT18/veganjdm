@@ -43,6 +43,7 @@ function Rankings(props) {
         </div>
       </div>
       <div className="row">{rankings}</div>
+    <hr />
     </div>
   );
 }

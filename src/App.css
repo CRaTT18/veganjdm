@@ -41,10 +41,13 @@ p, li {
 
 .bigaxe {
   animation: spin 1s linear 1;
-  width: auto ;
-  max-width: 100% ;
-  height: auto ;
 }
+
+@media only screen and (max-width : 767px) {
+  .bigaxe {
+  display: none;
+  }
+  }
 
 @keyframes spin {
   0% {
