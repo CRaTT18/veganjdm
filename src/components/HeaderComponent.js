@@ -92,7 +92,7 @@ class Header extends Component {
         <div className="row m-4">
           <img
             src={logo}
-            className="mx-auto img-fluid"
+            className="img-fluid mx-auto"
             width="1000"
             alt="Vegan jerky deathmatch logo"
           />
