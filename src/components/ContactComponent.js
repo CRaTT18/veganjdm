@@ -11,6 +11,7 @@ function Contact(props) {
         </div>
         <div className="col-md-9 text-justify">
           <h1>Contact</h1>
+          <hr />
           <p>
             Want to tell us what you think? Want to send us some beer & jerky to
             review?

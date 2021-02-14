@@ -20,7 +20,7 @@ class Header extends Component {
   render() {
     return (
       <>
-        <Navbar dark sticky="top" expand="lg">
+        <Navbar dark sticky="top" expand="md">
           <div className="container">
             <NavbarToggler onClick={this.toggleNav} />
             <Collapse isOpen={this.state.isNavOpen} navbar>
@@ -90,14 +90,12 @@ class Header extends Component {
           </div>
         </Navbar>
         <div className="row m-5">
-          <a href="/home" className="mx-auto">
-            <img
-              src={logo}
-              className="img-fluid"
-              width="1000"
-              alt="Vegan jerky deathmatch logo"
-            />
-          </a>
+          <img
+            src={logo}
+            className="mx-auto img-fluid"
+            width="1000"
+            alt="Vegan jerky deathmatch logo"
+          />
         </div>
         <hr />
       </>

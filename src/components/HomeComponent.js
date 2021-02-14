@@ -10,34 +10,36 @@ function Home(props) {
       <div className="row">
         <div className="col-md m-1">
           <h1>Top 3 current pound for pound ranking:</h1>
-          <CardDeck>
-            <Card style={{ width: "20rem" }}>
-              <CardImg
-                width="100%"
-                src={louisville}
-                alt="Lousville Vegan Jerky"
-              />
-              <CardImgOverlay>
-                <CardTitle>#1: Louisville Vegan Jerky Co.</CardTitle>
-              </CardImgOverlay>
-            </Card>
-            <Card style={{ width: "20rem" }}>
-              <CardImg
-                width="100%"
-                src={primal}
-                alt="Primal Spirit Vegan Jerky"
-              />
-              <CardImgOverlay>
-                <CardTitle>#2: Primal Spirit Foods Primal Strips</CardTitle>
-              </CardImgOverlay>
-            </Card>
-            <Card style={{ width: "20rem" }}>
-              <CardImg width="100%" src={solely} alt="Solely Vegan Jerky" />
-              <CardImgOverlay>
-                <CardTitle>#3: Solely Organic Fruit Jerky</CardTitle>
-              </CardImgOverlay>
-            </Card>
-          </CardDeck>
+          <a href="/rankings">
+            <CardDeck>
+              <Card className="homecard" style={{ width: "20rem" }}>
+                <CardImg
+                  width="100%"
+                  src={louisville}
+                  alt="Lousville Vegan Jerky"
+                />
+                <CardImgOverlay>
+                  <CardTitle>#1: Louisville Vegan Jerky Co.</CardTitle>
+                </CardImgOverlay>
+              </Card>
+              <Card className="homecard" style={{ width: "20rem" }}>
+                <CardImg
+                  width="100%"
+                  src={primal}
+                  alt="Primal Spirit Vegan Jerky"
+                />
+                <CardImgOverlay>
+                  <CardTitle>#2: Primal Spirit Foods Primal Strips</CardTitle>
+                </CardImgOverlay>
+              </Card>
+              <Card className="homecard" style={{ width: "20rem" }}>
+                <CardImg width="100%" src={solely} alt="Solely Vegan Jerky" />
+                <CardImgOverlay>
+                  <CardTitle>#3: Solely Organic Fruit Jerky</CardTitle>
+                </CardImgOverlay>
+              </Card>
+            </CardDeck>
+          </a>
           <br />
           <p>
             You can't go wrong with the top 3, any one of them is a top
@@ -77,8 +79,8 @@ function Home(props) {
             </li>
             <li>
               <strong>Chew:</strong> One of the most important factors in vegan
-              jerky. Does it have a long lasting traditional jerky chew or does it
-              dissolve on contact like a vodka soaked gummy bear?
+              jerky. Does it have a long lasting traditional jerky chew or does
+              it dissolve on contact like a vodka soaked gummy bear?
             </li>
             <li>
               <strong>Construction:</strong> What's it based on? Soy, Seitan,

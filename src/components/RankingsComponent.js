@@ -3,22 +3,22 @@ import { Card, CardImg, CardText, CardBody, CardTitle } from "reactstrap";
 
 function RenderRankingsItem({ jerky }) {
   return (
-    <Card>
+    <Card className="rankcard">
       <CardBody>
         <CardImg width="100%" src={jerky.image} alt={jerky.name} />
         <CardTitle>
-          {jerky.name}
+          <h3>{jerky.name}</h3>
         </CardTitle>
-        <CardText>
+        <CardText className="rankcardtext">
           <ul>
-            <li>Rank: #{jerky.rank}</li>
-            <li>Taste: {jerky.taste} out of 10</li>
-            <li>Texture: {jerky.texture} out of 10</li>
-            <li>Chew: {jerky.chew} out of 10</li>
-            <li>Score: {jerky.total} out of 30</li>
-            <li>Flavor: {jerky.flavor}</li>
-            <li>Construction: {jerky.construction}</li>
-            <li>Notes: {jerky.notes}</li>
+            <li><strong>Rank: #{jerky.rank}</strong></li>
+            <li><strong>Taste: </strong>{jerky.taste} out of 10</li>
+            <li><strong>Texture: </strong>{jerky.texture} out of 10</li>
+            <li><strong>Chew:</strong> {jerky.chew} out of 10</li>
+            <li><strong>Score: </strong>{jerky.total} out of 30</li>
+            <li><strong>Flavor: </strong>{jerky.flavor}</li>
+            <li><strong>Construction: </strong>{jerky.construction}</li>
+            <li><strong>Notes:</strong> {jerky.notes}</li>
           </ul>
         </CardText>
       </CardBody>
@@ -29,7 +29,7 @@ function RenderRankingsItem({ jerky }) {
 function Rankings(props) {
   const rankings = props.jerkys.map((jerky) => {
     return (
-      <div key={jerky.id} className="col-md-5 m-1">
+      <div key={jerky.id} className="col-md-12 m-3">
         <RenderRankingsItem jerky={jerky} />
       </div>
     );
@@ -39,7 +39,7 @@ function Rankings(props) {
       <div className="row">
         <div className="col">
           <h1>Rankings</h1>
-          <hr />
+          
         </div>
       </div>
       <div className="row">{rankings}</div>

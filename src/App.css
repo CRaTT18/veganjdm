@@ -10,7 +10,7 @@ body {
   font-family: "Permanent Marker", cursive;
 }
 
-h1, h2, h3, .card-body>.card-title {
+h1, h2, h3 {
   font-family: "Permanent Marker", cursive;
 }
 
@@ -41,6 +41,9 @@ p, li {
 
 .bigaxe {
   animation: spin 1s linear 1;
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
 }
 
 @keyframes spin {
@@ -52,8 +55,16 @@ p, li {
   }
 }
 
-.card:hover {
+.homecard:hover {
   transition: 0.5s;
   transform: scale(1.1);
   box-shadow: 5px 10px 18px #160101;
+}
+
+.rankcard {
+  box-shadow: 10px 10px 20px #160101;
+}
+
+.rankcardtext {
+  text-align: justify;
 }
