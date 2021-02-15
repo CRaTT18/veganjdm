@@ -1,5 +1,6 @@
 import React from "react";
 import { Card, CardImg, CardImgOverlay, CardDeck, CardTitle } from "reactstrap";
+import { Link } from "react-router-dom";
 import louisville from "../images/louisville_header.jpg";
 import primal from "../images/primal_spirit_header.jpg";
 import solely from "../images/solely_header.jpg";
@@ -10,7 +11,7 @@ function Home(props) {
       <div className="row">
         <div className="col-md m-1">
           <h1>Top 3 current pound for pound ranking:</h1>
-          <a href="/rankings">
+          <Link to="/rankings">
             <CardDeck>
               <Card className="homecard" style={{ width: "20rem" }}>
                 <CardImg
@@ -39,7 +40,7 @@ function Home(props) {
                 </CardImgOverlay>
               </Card>
             </CardDeck>
-          </a>
+          </Link>
           <br />
           <p>
             You can't go wrong with the top 3, any one of them is a top

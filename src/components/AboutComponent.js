@@ -50,13 +50,13 @@ function About(props) {
             </p>
             <h2>Why Vegan Jerky Deathmatch?</h2>
             I've been at this for several years. Trying to make vegan things
-            taste as good as there animal derived counterparts. My wife can tell
+            taste as good as their animal derived counterparts. My wife can tell
             you I have failed at many dishes and some have become favorites.
-            Vegan Jerky has made huge improvements in quality and availibility
+            Vegan Jerky has made huge improvements in quality and availability
             in the last few years but it is still expensive and hard to figure
             out which one to sqaunder your hard earned money on. Thats where I
             am here to help. I am not getting paid to do any of this, but I sure
-            would accept money and/or free beer & jerky. However my taste buds
+            would accept payment and/or free beer & jerky. However my taste buds
             can not be bought, so you can be sure my reviews are honest and
             reflect how I actually feel about the products. And if I can figure
             out a way to monetize this site with affiliate links or things like

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Nav, Navbar, NavItem, NavbarToggler, Collapse } from "reactstrap";
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 import logo from "../images/logo.png";
 import axe from "../images/axe.png";
 
@@ -89,14 +89,14 @@ class Header extends Component {
             </Collapse>
           </div>
         </Navbar>
-        <div className="row m-4">
+        <Link to="/home"><div className="row m-4">
           <img
             src={logo}
             className="img-fluid mx-auto"
             width="1000"
             alt="Vegan jerky deathmatch logo"
           />
-        </div>
+        </div></Link>
         <hr />
       </>
     );
