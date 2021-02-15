@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/veganjdm/static/css/main.716f4f6f.chunk.css",
-    "main.js": "/veganjdm/static/js/main.45a29de0.chunk.js",
-    "main.js.map": "/veganjdm/static/js/main.45a29de0.chunk.js.map",
-    "runtime-main.js": "/veganjdm/static/js/runtime-main.cf858adc.js",
-    "runtime-main.js.map": "/veganjdm/static/js/runtime-main.cf858adc.js.map",
+    "main.js": "/veganjdm/static/js/main.cac4e69f.chunk.js",
+    "main.js.map": "/veganjdm/static/js/main.cac4e69f.chunk.js.map",
+    "runtime-main.js": "/veganjdm/static/js/runtime-main.f1c96526.js",
+    "runtime-main.js.map": "/veganjdm/static/js/runtime-main.f1c96526.js.map",
     "static/css/2.150d169a.chunk.css": "/veganjdm/static/css/2.150d169a.chunk.css",
-    "static/js/2.ab1289ee.chunk.js": "/veganjdm/static/js/2.ab1289ee.chunk.js",
-    "static/js/2.ab1289ee.chunk.js.map": "/veganjdm/static/js/2.ab1289ee.chunk.js.map",
-    "static/js/3.f21b8071.chunk.js": "/veganjdm/static/js/3.f21b8071.chunk.js",
-    "static/js/3.f21b8071.chunk.js.map": "/veganjdm/static/js/3.f21b8071.chunk.js.map",
+    "static/js/2.18450733.chunk.js": "/veganjdm/static/js/2.18450733.chunk.js",
+    "static/js/2.18450733.chunk.js.map": "/veganjdm/static/js/2.18450733.chunk.js.map",
+    "static/js/3.8d13b640.chunk.js": "/veganjdm/static/js/3.8d13b640.chunk.js",
+    "static/js/3.8d13b640.chunk.js.map": "/veganjdm/static/js/3.8d13b640.chunk.js.map",
     "index.html": "/veganjdm/index.html",
     "static/css/2.150d169a.chunk.css.map": "/veganjdm/static/css/2.150d169a.chunk.css.map",
     "static/css/main.716f4f6f.chunk.css.map": "/veganjdm/static/css/main.716f4f6f.chunk.css.map",
-    "static/js/2.ab1289ee.chunk.js.LICENSE.txt": "/veganjdm/static/js/2.ab1289ee.chunk.js.LICENSE.txt",
+    "static/js/2.18450733.chunk.js.LICENSE.txt": "/veganjdm/static/js/2.18450733.chunk.js.LICENSE.txt",
     "static/media/logo.7a908507.png": "/veganjdm/static/media/logo.7a908507.png",
     "static/media/louisville_header.26b880c7.jpg": "/veganjdm/static/media/louisville_header.26b880c7.jpg",
     "static/media/primal_spirit_header.a0e1a247.jpg": "/veganjdm/static/media/primal_spirit_header.a0e1a247.jpg",
-    "static/media/solely_header.jpg": "/veganjdm/static/media/solely_header.115a7291.jpg"
+    "static/media/solely_header.115a7291.jpg": "/veganjdm/static/media/solely_header.115a7291.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf858adc.js",
+    "static/js/runtime-main.f1c96526.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.ab1289ee.chunk.js",
+    "static/js/2.18450733.chunk.js",
     "static/css/main.716f4f6f.chunk.css",
-    "static/js/main.45a29de0.chunk.js"
+    "static/js/main.cac4e69f.chunk.js"
   ]
 }
