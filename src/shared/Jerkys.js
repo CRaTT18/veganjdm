@@ -2,7 +2,7 @@ export const JERKYS = [
     {
         id: 0,
         name: "Louisville Vegan Jerky Co.",
-        image: "../images/louisville_header.jpg",
+        image: require("../images/solely_header.jpg"),
         rank: 1,
         flavor: "Smoked Black Pepper",
         taste: "9",
@@ -10,7 +10,7 @@ export const JERKYS = [
         chew: "8",
         total: "25",
         construction: "Textured Soy Protein",
-        notes: "This jerky has the best balance of that smokey, spicy flavor you expect in a black pepper jerky. The texure and chew is a little soft for me but it does remind me of a fresh thick cut style beef jerky. Overall Louisville Vegan Jerky is the best vegan jerky I've tasted, I also like the Smoky Carolina BBQ flavor. The Perfect Pepperoni didn't really impress me, but I do want to try it on a pizza and give it another shot. "
+        notes: "This jerky has the best balance of that smokey, spicy flavor you expect in a black pepper jerky. The texure and chew is a little soft for me but it does remind me of a fresh thick cut style beef jerky. I like to eat it with a handful of peanuts. Overall Louisville Vegan Jerky is the best vegan jerky I've tasted, I also like the Smoky Carolina BBQ flavor. The Perfect Pepperoni didn't really impress me, but I do want to try it on a pizza and give it another shot. "
     },
     {
         id: 1,

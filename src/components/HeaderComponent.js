@@ -94,6 +94,7 @@ class Header extends Component {
             src={logo}
             className="img-fluid mx-auto"
             width="1000"
+            height="auto"
             alt="Vegan jerky deathmatch logo"
           />
         </div></Link>

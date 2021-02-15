@@ -62,6 +62,8 @@ function About(props) {
             out a way to monetize this site with affiliate links or things like
             that, I will do it, so just letting you know. Cheers!
           </p>
+          <h2>One more thing...</h2>
+          <p>I'm not a Doctor, Lawyer or Financial Advisor. So don't take medical or legal advice from me and don't invest in any cryptos or stonks I tell you about.</p>
         </div>
       </div>
       <hr />

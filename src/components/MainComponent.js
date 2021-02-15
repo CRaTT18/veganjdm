@@ -5,6 +5,7 @@ import About from "./AboutComponent";
 import Match from "./MatchComponent";
 import Rankings from "./RankingsComponent";
 import Contact from "./ContactComponent";
+import Footer from "./FooterComponent";
 import { Switch, Route, Redirect } from "react-router-dom";
 import { JERKYS } from "../shared/Jerkys";
 
@@ -35,6 +36,7 @@ class Main extends Component {
           <Route exact path="/rankings" render={() => <Rankings jerkys={this.state.jerkys} />} />
           <Redirect to="/home" />
         </Switch>
+        <Footer />
       </div>
     );
   }
