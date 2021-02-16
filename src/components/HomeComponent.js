@@ -84,8 +84,8 @@ function Home(props) {
               it dissolve on contact like a vodka soaked gummy bear?
             </li>
             <li>
-              <strong>Construction:</strong> What's it based on? Soy, Mushroom, Seitan,
-              Fruit, Realigned Pea Protein etc..
+              <strong>Construction:</strong> What's it based on? Soy, Mushroom,
+              Seitan, Fruit, Realigned Pea Protein etc..
             </li>
             <li>
               <strong>Notes:</strong> A brief description of the experience and

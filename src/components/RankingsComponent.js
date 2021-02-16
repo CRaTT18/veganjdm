@@ -5,20 +5,41 @@ function RenderRankingsItem({ jerky }) {
   return (
     <Card className="rankcard">
       <CardBody>
-        <CardImg width="100%" src={jerky.image} alt={jerky.name} />
+        <CardImg className="img-fluid w-50" src={jerky.image} alt={jerky.name} />
         <CardTitle>
           <h3>{jerky.name}</h3>
         </CardTitle>
         <CardText className="rankcardtext">
           <ul>
-            <li><strong>Rank: #{jerky.rank}</strong></li>
-            <li><strong>Taste: </strong>{jerky.taste} out of 10</li>
-            <li><strong>Texture: </strong>{jerky.texture} out of 10</li>
-            <li><strong>Chew:</strong> {jerky.chew} out of 10</li>
-            <li><strong>Score: </strong>{jerky.total} out of 30</li>
-            <li><strong>Flavor: </strong>{jerky.flavor}</li>
-            <li><strong>Construction: </strong>{jerky.construction}</li>
-            <li><strong>Notes:</strong> {jerky.notes}</li>
+            <li>
+              <strong>Rank: #{jerky.rank}</strong>
+            </li>
+            <li>
+              <strong>Taste: </strong>
+              {jerky.taste} out of 10
+            </li>
+            <li>
+              <strong>Texture: </strong>
+              {jerky.texture} out of 10
+            </li>
+            <li>
+              <strong>Chew:</strong> {jerky.chew} out of 10
+            </li>
+            <li>
+              <strong>Score: </strong>
+              {jerky.total} out of 30
+            </li>
+            <li>
+              <strong>Flavor: </strong>
+              {jerky.flavor}
+            </li>
+            <li>
+              <strong>Construction: </strong>
+              {jerky.construction}
+            </li>
+            <li>
+              <strong>Notes:</strong> {jerky.notes}
+            </li>
           </ul>
         </CardText>
       </CardBody>
@@ -39,11 +60,10 @@ function Rankings(props) {
       <div className="row">
         <div className="col">
           <h1>Rankings</h1>
-          
         </div>
       </div>
       <div className="row">{rankings}</div>
-    <hr />
+      <hr />
     </div>
   );
 }

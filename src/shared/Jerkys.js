@@ -2,7 +2,7 @@ export const JERKYS = [
     {
         id: 0,
         name: "Louisville Vegan Jerky Co.",
-        image: "process.env.PUBLIC_URL + '/louisville_header.jpg'",
+        image: "/veganjdm/static/media/louisville_header.26b880c7.jpg",
         rank: 1,
         flavor: "Smoked Black Pepper",
         taste: "9",
@@ -15,7 +15,7 @@ export const JERKYS = [
     {
         id: 1,
         name:"Primal Spirit Foods Primal Strips",
-        image: "%PUBLIC_URL%/primal_spirit_header.jpg",
+        image: "/veganjdm/static/media/primal_spirit_header.a0e1a247.jpg",
         rank: 2,
         flavor: "Teriyaki",
         taste: "6",
@@ -28,7 +28,7 @@ export const JERKYS = [
     {
         id: 2,
         name:"Solely: Organic Fruit Jerky",
-        image: "%PUBLIC_URL%/solely_header.jpg",
+        image: "/veganjdm/static/media/solely_header.115a7291.jpg",
         rank: 3,
         flavor: "Pineapple with Chili & Salt",
         taste: "10",
@@ -41,7 +41,7 @@ export const JERKYS = [
     {
         id: 3,
         name:"Sweet Earth Kung-Pao Plant-Based Jerky",
-        image: "%PUBLIC_URL%/sweet_earth_header.jpg",
+        image: "/veganjdm/static/media/sweet_earth_header.0e42f204.jpg",
         rank: 4,
         flavor: "Spicy Kung-Pao",
         taste: "7",
@@ -54,7 +54,7 @@ export const JERKYS = [
     {
         id: 4,
         name:"Foreal Foods Coconut Jerky",
-        image: "%PUBLIC_URL%/foreal_header.jpg",
+        image: "/veganjdm/static/media/foreal_header.680722cf.jpg",
         rank: 5,
         flavor: "Original Peppered",
         taste: "2",
