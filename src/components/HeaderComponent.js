@@ -93,7 +93,7 @@ class Header extends Component {
           <div className="text-center">
             <img
               src={logo}
-              className="w-75 m-sm-4 img-fluid"
+              className="w-75 m-4 img-fluid"
               alt="Vegan jerky deathmatch logo"
             />
           </div>
