@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/veganjdm/static/css/main.4a46ea2d.chunk.css",
-    "main.js": "/veganjdm/static/js/main.2f12264e.chunk.js",
-    "main.js.map": "/veganjdm/static/js/main.2f12264e.chunk.js.map",
+    "main.js": "/veganjdm/static/js/main.c4e198ec.chunk.js",
+    "main.js.map": "/veganjdm/static/js/main.c4e198ec.chunk.js.map",
     "runtime-main.js": "/veganjdm/static/js/runtime-main.f1c96526.js",
     "runtime-main.js.map": "/veganjdm/static/js/runtime-main.f1c96526.js.map",
     "static/css/2.150d169a.chunk.css": "/veganjdm/static/css/2.150d169a.chunk.css",
@@ -16,6 +16,8 @@
     "static/js/2.18450733.chunk.js.LICENSE.txt": "/veganjdm/static/js/2.18450733.chunk.js.LICENSE.txt",
     "static/media/foreal_header.680722cf.jpg": "/veganjdm/static/media/foreal_header.680722cf.jpg",
     "static/media/foreal_texture.280eadc0.jpg": "/veganjdm/static/media/foreal_texture.280eadc0.jpg",
+    "static/media/foreal_vs_louisville.ce46dec7.jpg": "/veganjdm/static/media/foreal_vs_louisville.ce46dec7.jpg",
+    "static/media/foreal_vs_louisville_texture.c466e880.jpg": "/veganjdm/static/media/foreal_vs_louisville_texture.c466e880.jpg",
     "static/media/logo.7a908507.png": "/veganjdm/static/media/logo.7a908507.png",
     "static/media/louisville_header.26b880c7.jpg": "/veganjdm/static/media/louisville_header.26b880c7.jpg",
     "static/media/louisville_texture.ec57fbee.jpg": "/veganjdm/static/media/louisville_texture.ec57fbee.jpg",
@@ -30,6 +32,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.18450733.chunk.js",
     "static/css/main.4a46ea2d.chunk.css",
-    "static/js/main.2f12264e.chunk.js"
+    "static/js/main.c4e198ec.chunk.js"
   ]
 }
