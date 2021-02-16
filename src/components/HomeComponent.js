@@ -4,12 +4,12 @@ import { Link } from "react-router-dom";
 import louisville from "../images/louisville_header.jpg";
 import primal from "../images/primal_spirit_header.jpg";
 import solely from "../images/solely_header.jpg";
-//import foreal from "../images/foreal_header.jpg";
-//import sweet_earth from "../images/sweet_earth_header.jpg";
-//import louisvilletexture from "../images/louisville_texture.jpg";
-//import solelytexture from "../images/solely_texture.jpg";
-//import forealtexture from "../images/foreal_texture.jpg";
-//import sweet_earth_texture from "../images/sweet_earth_texture.jpg";
+import foreal from "../images/foreal_header.jpg";
+import sweet_earth from "../images/sweet_earth_header.jpg";
+import louisvilletexture from "../images/louisville_texture.jpg";
+import solelytexture from "../images/solely_texture.jpg";
+import forealtexture from "../images/foreal_texture.jpg";
+import sweet_earth_texture from "../images/sweet_earth_texture.jpg";
 
 
 function Home(props) {
