@@ -90,10 +90,10 @@ class Header extends Component {
           </div>
         </Navbar>
         <Link to="/home">
-          <div className="row">
+          <div className="text-center">
             <img
               src={logo}
-              className="w-75 m-4 mx-auto my-auto img-fluid"
+              className="w-75 m-4 img-fluid"
               alt="Vegan jerky deathmatch logo"
             />
           </div>
