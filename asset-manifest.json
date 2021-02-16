@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/veganjdm/static/css/main.716f4f6f.chunk.css",
-    "main.js": "/veganjdm/static/js/main.cac4e69f.chunk.js",
-    "main.js.map": "/veganjdm/static/js/main.cac4e69f.chunk.js.map",
+    "main.css": "/veganjdm/static/css/main.4a46ea2d.chunk.css",
+    "main.js": "/veganjdm/static/js/main.398bbaef.chunk.js",
+    "main.js.map": "/veganjdm/static/js/main.398bbaef.chunk.js.map",
     "runtime-main.js": "/veganjdm/static/js/runtime-main.f1c96526.js",
     "runtime-main.js.map": "/veganjdm/static/js/runtime-main.f1c96526.js.map",
     "static/css/2.150d169a.chunk.css": "/veganjdm/static/css/2.150d169a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.8d13b640.chunk.js.map": "/veganjdm/static/js/3.8d13b640.chunk.js.map",
     "index.html": "/veganjdm/index.html",
     "static/css/2.150d169a.chunk.css.map": "/veganjdm/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.716f4f6f.chunk.css.map": "/veganjdm/static/css/main.716f4f6f.chunk.css.map",
+    "static/css/main.4a46ea2d.chunk.css.map": "/veganjdm/static/css/main.4a46ea2d.chunk.css.map",
     "static/js/2.18450733.chunk.js.LICENSE.txt": "/veganjdm/static/js/2.18450733.chunk.js.LICENSE.txt",
     "static/media/logo.7a908507.png": "/veganjdm/static/media/logo.7a908507.png",
     "static/media/louisville_header.26b880c7.jpg": "/veganjdm/static/media/louisville_header.26b880c7.jpg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.f1c96526.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.18450733.chunk.js",
-    "static/css/main.716f4f6f.chunk.css",
-    "static/js/main.cac4e69f.chunk.js"
+    "static/css/main.4a46ea2d.chunk.css",
+    "static/js/main.398bbaef.chunk.js"
   ]
 }
