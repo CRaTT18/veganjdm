@@ -89,15 +89,15 @@ class Header extends Component {
             </Collapse>
           </div>
         </Navbar>
-        <Link to="/home"><div className="row m-4">
-          <img
-            src={logo}
-            className="img-fluid mx-auto"
-            width="1000"
-            height="auto"
-            alt="Vegan jerky deathmatch logo"
-          />
-        </div></Link>
+        <Link to="/home">
+          <div className="row m-4">
+            <img
+              src={logo}
+              className="img-fluid mx-auto w-75"
+              alt="Vegan jerky deathmatch logo"
+            />
+          </div>
+        </Link>
         <hr />
       </>
     );

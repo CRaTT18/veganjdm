@@ -5,7 +5,14 @@ function RenderRankingsItem({ jerky }) {
   return (
     <Card className="rankcard">
       <CardBody>
-        <CardImg className="img-fluid w-50" src={jerky.image} alt={jerky.name} />
+        <div className="row">
+          <div className="col-md">
+            <CardImg className="img-fluid" src={jerky.image} alt={jerky.name} />
+          </div>
+          <div className="col-md">
+            <CardImg className="img-fluid" src={jerky.textureimage} alt={jerky.name} />
+          </div>
+        </div>
         <CardTitle>
           <h3>{jerky.name}</h3>
         </CardTitle>
