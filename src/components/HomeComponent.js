@@ -11,7 +11,6 @@ import solelytexture from "../images/solely_texture.jpg";
 import forealtexture from "../images/foreal_texture.jpg";
 import sweet_earth_texture from "../images/sweet_earth_texture.jpg";
 
-
 function Home(props) {
   return (
     <div className="container">

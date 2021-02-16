@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <BrowserRouter>
-      <ScrollToTop />
+        <ScrollToTop />
         <div className="App">
           <Main />
         </div>
