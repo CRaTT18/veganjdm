@@ -37,6 +37,7 @@ p, li {
 .axe-small:hover {
   transition: 1s;
   transform: rotate(450deg);
+  animation-fill-mode: forwards;
 }
 
 .bigaxe {
