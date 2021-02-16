@@ -29,7 +29,7 @@ class Header extends Component {
                   <NavLink className="nav-link" to="/home">
                     <img
                       src={axe}
-                      className="axe-small"
+                      className="axe-small d-md-none d-lg-inline"
                       height="40"
                       alt="Axe Logo"
                       href="/"
@@ -41,7 +41,7 @@ class Header extends Component {
                   <NavLink className="nav-link" to="/rankings">
                     <img
                       src={axe}
-                      className="axe-small"
+                      className="axe-small d-md-none d-lg-inline"
                       height="40"
                       alt="Axe Logo"
                       href="/"
@@ -53,7 +53,7 @@ class Header extends Component {
                   <NavLink className="nav-link" to="/match">
                     <img
                       src={axe}
-                      className="axe-small"
+                      className="axe-small d-md-none d-lg-inline"
                       height="40"
                       alt="Axe Logo"
                       href="/"
@@ -65,7 +65,7 @@ class Header extends Component {
                   <NavLink className="nav-link" to="/aboutus">
                     <img
                       src={axe}
-                      className="axe-small"
+                      className="axe-small d-md-none d-lg-inline"
                       height="40"
                       alt="Axe Logo"
                       href="/"
@@ -77,7 +77,7 @@ class Header extends Component {
                   <NavLink className="nav-link" to="/contactus">
                     <img
                       src={axe}
-                      className="axe-small"
+                      className="axe-small d-md-none d-lg-inline"
                       height="40"
                       alt="Axe Logo"
                       href="/"
@@ -93,7 +93,7 @@ class Header extends Component {
           <div className="text-center">
             <img
               src={logo}
-              className="w-75 m-4 img-fluid"
+              className="w-75 m-sm-4 img-fluid"
               alt="Vegan jerky deathmatch logo"
             />
           </div>
