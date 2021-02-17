@@ -16,7 +16,7 @@ function Home(props) {
     <div className="container">
       <div className="row">
         <div className="col-md m-1">
-          <h1>Top 3 current pound for pound ranking:</h1>
+          <h1>Top 3 current pound for pound rankings:</h1>
           <Link to="/rankings">
             <CardDeck>
               <Card className="homecard" style={{ width: "20rem" }}>
