@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/veganjdm/static/css/main.92e5cccc.chunk.css",
-    "main.js": "/veganjdm/static/js/main.8dc3a3af.chunk.js",
-    "main.js.map": "/veganjdm/static/js/main.8dc3a3af.chunk.js.map",
+    "main.js": "/veganjdm/static/js/main.a18a2543.chunk.js",
+    "main.js.map": "/veganjdm/static/js/main.a18a2543.chunk.js.map",
     "runtime-main.js": "/veganjdm/static/js/runtime-main.f1c96526.js",
     "runtime-main.js.map": "/veganjdm/static/js/runtime-main.f1c96526.js.map",
     "static/css/2.150d169a.chunk.css": "/veganjdm/static/css/2.150d169a.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.150d169a.chunk.css.map": "/veganjdm/static/css/2.150d169a.chunk.css.map",
     "static/css/main.92e5cccc.chunk.css.map": "/veganjdm/static/css/main.92e5cccc.chunk.css.map",
     "static/js/2.9555e996.chunk.js.LICENSE.txt": "/veganjdm/static/js/2.9555e996.chunk.js.LICENSE.txt",
+    "static/media/foreal_header.680722cf.jpg": "/veganjdm/static/media/foreal_header.680722cf.jpg",
     "static/media/foreal_texture.280eadc0.jpg": "/veganjdm/static/media/foreal_texture.280eadc0.jpg",
     "static/media/foreal_vs_louisville.ce46dec7.jpg": "/veganjdm/static/media/foreal_vs_louisville.ce46dec7.jpg",
     "static/media/foreal_vs_louisville_texture.c466e880.jpg": "/veganjdm/static/media/foreal_vs_louisville_texture.c466e880.jpg",
@@ -31,6 +32,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.9555e996.chunk.js",
     "static/css/main.92e5cccc.chunk.css",
-    "static/js/main.8dc3a3af.chunk.js"
+    "static/js/main.a18a2543.chunk.js"
   ]
 }
