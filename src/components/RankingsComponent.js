@@ -63,7 +63,7 @@ function RenderRankingsItem({ jerky }) {
 }
 
 function Rankings(props) {
-  const rankings = props.jerkys.map((jerky) => {
+  const rankings = props.jerkys.sort((a, b) => a.rank - b.rank).map((jerky) => {
     return (
       <div key={jerky.id} className="col-md-12 m-3">
         <RenderRankingsItem jerky={jerky} />

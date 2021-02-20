@@ -11,7 +11,7 @@ export const JERKYS = [
         chew: 8,
         total: 25,
         construction: "Textured Soy Protein",
-        notes: "This jerky has the best balance of that smokey, spicy flavor you expect in a black pepper jerky. The texure and chew is a little soft for me but it does remind me of a fresh thick cut style beef jerky. I like to eat it with a handful of peanuts. Overall Louisville Vegan Jerky is the best vegan jerky I've tasted, I also like the Smokey Carolina BBQ flavor. The Perfect Pepperoni didn't really impress me, but I do want to try it on a pizza and give it another shot. "
+        notes: "This jerky has the best balance of that smokey, spicy flavor you expect in a black pepper jerky. The texure and chew is a little soft for me but it does remind me of a fresh thick cut style beef jerky. I like to eat it with a handful of peanuts. Overall Louisville Vegan Jerky is the best vegan jerky I've tasted, I also like the Smokey Carolina BBQ flavor. The Perfect Pepperoni didn't really impress me, but I do want to try it on a pizza and give it another shot. UPDATE 2/20/21: I made a pizza and put the Perfect Pepperoni on it. It did have the proper pepporoni flavor if you can get your mind to accept the shape and texture difference. Next time I will put the pepperoni on half way through baking as the pieces that were up high got a little crispy."
     },
     {
         id: 1,
@@ -58,7 +58,7 @@ export const JERKYS = [
     {
         id: 4,
         name:"Foreal Foods Coconut Jerky",
-        image: "/veganjdm/static/media/foreal_header.680722cf.jpg",
+        image: "/build/static/media/foreal_header.680722cf.jpg",
         textureimage: "/veganjdm/static/media/foreal_texture.280eadc0.jpg",
         rank: 5,
         flavor: "Original Peppered",
