@@ -58,7 +58,7 @@ export const JERKYS = [
     {
         id: 4,
         name:"Foreal Foods Coconut Jerky",
-        image: "/build/static/media/foreal_header.680722cf.jpg",
+        image: "veganjdm/static/media/foreal_header.680722cf.jpg",
         textureimage: "/veganjdm/static/media/foreal_texture.280eadc0.jpg",
         rank: 5,
         flavor: "Original Peppered",
