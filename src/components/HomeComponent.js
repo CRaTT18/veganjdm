@@ -10,6 +10,10 @@ import louisvilletexture from "../images/louisville_texture.jpg";
 import solelytexture from "../images/solely_texture.jpg";
 import forealtexture from "../images/foreal_texture.jpg";
 import sweet_earth_texture from "../images/sweet_earth_texture.jpg";
+import farwest from "../images/farwestfungi_header.jpg";
+import farwest_texture from "../images/farwestfungi_texture.jpg";
+import perky from "../images/perkyjerky_header.jpg";
+import perky_texture from "../images/perkyjerky_texture.jpg";
 
 function Home(props) {
   return (
@@ -32,17 +36,17 @@ function Home(props) {
               <Card className="homecard" style={{ width: "20rem" }}>
                 <CardImg
                   width="100%"
-                  src={primal}
-                  alt="Primal Spirit Vegan Jerky"
+                  src={farwest}
+                  alt="Far West Fungi Vegan Jerky"
                 />
                 <CardImgOverlay>
-                  <CardTitle>#2: Primal Spirit Foods Primal Strips</CardTitle>
+                  <CardTitle>#2: Far West Fungi Mushroom Jerky</CardTitle>
                 </CardImgOverlay>
               </Card>
               <Card className="homecard" style={{ width: "20rem" }}>
-                <CardImg width="100%" src={solely} alt="Solely Vegan Jerky" />
+                <CardImg width="100%" src={primal} alt="Primal Spirit Vegan Jerky" />
                 <CardImgOverlay>
-                  <CardTitle>#3: Solely Organic Fruit Jerky</CardTitle>
+                  <CardTitle>#3: Primal Spirit Foods Primal Strips</CardTitle>
                 </CardImgOverlay>
               </Card>
             </CardDeck>
