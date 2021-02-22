@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/veganjdm/static/css/main.92e5cccc.chunk.css",
-    "main.js": "/veganjdm/static/js/main.3c39cf75.chunk.js",
-    "main.js.map": "/veganjdm/static/js/main.3c39cf75.chunk.js.map",
+    "main.js": "/veganjdm/static/js/main.d1e6e36d.chunk.js",
+    "main.js.map": "/veganjdm/static/js/main.d1e6e36d.chunk.js.map",
     "runtime-main.js": "/veganjdm/static/js/runtime-main.f1c96526.js",
     "runtime-main.js.map": "/veganjdm/static/js/runtime-main.f1c96526.js.map",
     "static/css/2.150d169a.chunk.css": "/veganjdm/static/css/2.150d169a.chunk.css",
@@ -14,6 +14,8 @@
     "static/css/2.150d169a.chunk.css.map": "/veganjdm/static/css/2.150d169a.chunk.css.map",
     "static/css/main.92e5cccc.chunk.css.map": "/veganjdm/static/css/main.92e5cccc.chunk.css.map",
     "static/js/2.9555e996.chunk.js.LICENSE.txt": "/veganjdm/static/js/2.9555e996.chunk.js.LICENSE.txt",
+    "static/media/farwest_vs_foreal.4f5b67bd.jpg": "/veganjdm/static/media/farwest_vs_foreal.4f5b67bd.jpg",
+    "static/media/farwest_vs_foreal_texture.fe216960.jpg": "/veganjdm/static/media/farwest_vs_foreal_texture.fe216960.jpg",
     "static/media/farwest_vs_perky.dd75a878.jpg": "/veganjdm/static/media/farwest_vs_perky.dd75a878.jpg",
     "static/media/farwest_vs_perky_texture.fc71ee27.jpg": "/veganjdm/static/media/farwest_vs_perky_texture.fc71ee27.jpg",
     "static/media/farwestfungi_header.17a268c6.jpg": "/veganjdm/static/media/farwestfungi_header.17a268c6.jpg",
@@ -28,6 +30,7 @@
     "static/media/perkyjerky_header.df3aa083.jpg": "/veganjdm/static/media/perkyjerky_header.df3aa083.jpg",
     "static/media/perkyjerky_texture.ac19fa99.jpg": "/veganjdm/static/media/perkyjerky_texture.ac19fa99.jpg",
     "static/media/primal_spirit_header.a0e1a247.jpg": "/veganjdm/static/media/primal_spirit_header.a0e1a247.jpg",
+    "static/media/primal_spirit_texture.289ed597.jpg": "/veganjdm/static/media/primal_spirit_texture.289ed597.jpg",
     "static/media/solely_header.115a7291.jpg": "/veganjdm/static/media/solely_header.115a7291.jpg",
     "static/media/solely_texture.0e84a648.jpg": "/veganjdm/static/media/solely_texture.0e84a648.jpg",
     "static/media/sweet_earth_header.0e42f204.jpg": "/veganjdm/static/media/sweet_earth_header.0e42f204.jpg",
@@ -38,6 +41,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.9555e996.chunk.js",
     "static/css/main.92e5cccc.chunk.css",
-    "static/js/main.3c39cf75.chunk.js"
+    "static/js/main.d1e6e36d.chunk.js"
   ]
 }
