@@ -18,7 +18,7 @@ export const JERKYS = [
     id: 1,
     name: "Primal Spirit Foods Primal Strips",
     image: "/veganjdm/static/media/primal_spirit_header.a0e1a247.jpg",
-    textureimage: "/veganjdm/static/media/primal_spirit_header.a0e1a247.jpg",
+    textureimage: "/veganjdm/static/media/primal_spirit_texture.289ed597.jpg",
     rank: 3,
     flavor: "Teriyaki",
     taste: 6,
@@ -87,7 +87,7 @@ export const JERKYS = [
     total: 25,
     construction: "Tree Oyster Mushrooms",
     notes:
-      "Eat it off the floor good. Thats right I dropped a piece on the floor and still ate it. This has the look and chew of actual beef jerky. That pick it out of your teeth real jerky style. The salty, balsamic flavor is awesome with the red pepper flakes adding just the right amount of heat. It doesn't have a strong mushroom flavor, only a hint in the after taste. Speaking of after taste, the salty, umami goodness had me licking my lips and teeth as I reached for another handful. Only downside to this is the small pieces and my wife hates mushrooms so this can't be a family treat in my house.",
+      "Eat it off the floor good. Thats right I dropped a piece on the floor and still ate it. This has the look and chew of actual beef jerky. That pick it out of your teeth real jerky style. The salty, balsamic flavor is awesome with the red pepper flakes adding just the right amount of heat. It doesn't have a strong mushroom flavor, only a hint in the after taste. Speaking of after taste, the salty, umami goodness had me licking my lips and teeth as I reached for another handful. The only downside to this jerky is the small pieces and my wife hates mushrooms so this can't be a family treat in my house. The shiitake peppered version is a little meatier with more of a mushroom taste and a little less heat. ",
   },
   {
     id: 6,
@@ -102,6 +102,6 @@ export const JERKYS = [
     total: 21,
     construction: "Soy Powder",
     notes:
-      "This jerky scored triple 7's. A real middle of the road for me. The chew and texture wasn't bad, a little soft but that's better than too hard. The flavor is a sweet teriyaki. I can hear the pineapple and brown sugar with a little ginger kick. Overall a little too sweet for my tastes. Not a bad go at vegan jerky from what appears to be a more meat focused company. I would eat it again and i think this would be good for those trying to transition to a plant based life. I would call it a shoulder shrug emoji.",
+      "This jerky scored triple 7's. A real middle of the road for me. The chew and texture wasn't bad, a little soft but that's better than too hard. The flavor is a sweet teriyaki. I can hear the pineapple and brown sugar with a little ginger kick. Overall a little too sweet for my tastes. Not a bad go at vegan jerky from what appears to be a more meat focused company. I would eat it again and I think this would be good for those trying to transition to a plant based lifestyle. I would call it a shoulder shrug emoji, could take it or leave it.",
   },
 ];

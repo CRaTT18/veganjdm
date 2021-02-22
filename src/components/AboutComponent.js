@@ -16,7 +16,7 @@ function About(props) {
             change my ways I could expect to stroke out in 10-15 years due to
             high blood pressure and being overweight. My wife was already
             vegetarian so I started looking in to ways I could improve my health
-            and found out I was eating pretty shitty. The more I got away from
+            and found out I was eating pretty poorly. The more I got away from
             processed food, meat and dairy, the better I felt. I would say I'm
             about 80% Vegan and maybe 95% Vegetarian. That means if I want a
             cheeseburger, I eat one. But those times are getting fewer and

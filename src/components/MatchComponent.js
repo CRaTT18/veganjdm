@@ -3,6 +3,8 @@ import forealVlouisville from "../images/foreal_vs_louisville.jpg";
 import forealVlouisvilletexture from "../images/foreal_vs_louisville_texture.jpg";
 import match2 from "../images/farwest_vs_perky.jpg";
 import match2texture from "../images/farwest_vs_perky_texture.jpg";
+import match3 from "../images/farwest_vs_foreal.jpg";
+import match3texture from "../images/farwest_vs_foreal_texture.jpg";
 
 function Match(props) {
   return (
@@ -11,6 +13,27 @@ function Match(props) {
         <div className="col">
           <h1>Matches</h1>
           <hr />
+          <h2 className="text-center">
+            Foreal Coconut Jerky vs. Far West Fungi Mushroom Jerky
+          </h2>
+          <h3 className="text-center">
+            Special guest referee: Cascade Lakes Brewing Co. Pineapple IPA
+          </h3>
+          <img
+            src={match3}
+            className="m-3 img-fluid"
+            alt="Far west fungi & Foreal Jerky Packages"
+          />
+          <img
+            src={match3texture}
+            className="m-3 img-fluid"
+            alt="Far west fungi & Foreal Jerky Pieces"
+          />
+          <p className="text-justify">Match 3 report coming soon.</p>
+          <h2 className="text-center" style={{color: '#ed2024'}}>
+            Winner:
+          </h2>
+          <hr/>
           <h2 className="text-center">
             Perky Jerky vs. Far West Fungi Mushroom Jerky
           </h2>
@@ -28,7 +51,7 @@ function Match(props) {
             alt="Far west fungi & Perky Jerky Pieces"
           />
           <p className="text-justify">Match 2 report coming soon.</p>
-          <h2 className="text-center" style={{ color: "red" }}>
+          <h2 className="text-center" style={{color: '#ed2024'}}>
             Winner:
           </h2>
           <hr />
@@ -59,7 +82,7 @@ function Match(props) {
             coconut meat surprise, only time will tell if they live to fight
             another day.
           </p>
-          <h2 className="text-center" style={{ color: "red" }}>
+          <h2 className="text-center" style={{color: '#ed2024'}}>
             Winner by brutal Knock Out: Louisville Vegan jerky Co.
           </h2>
           <hr />
