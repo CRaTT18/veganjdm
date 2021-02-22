@@ -20,6 +20,15 @@ class Header extends Component {
   render() {
     return (
       <>
+      <Link to="/home">
+          <div className="text-center">
+            <img
+              src={logo}
+              className="w-75 m-4 img-fluid"
+              alt="Vegan jerky deathmatch logo"
+            />
+          </div>
+        </Link>
         <Navbar dark sticky="top" expand="md">
           <div className="container">
             <NavbarToggler onClick={this.toggleNav} />
@@ -89,16 +98,7 @@ class Header extends Component {
             </Collapse>
           </div>
         </Navbar>
-        <Link to="/home">
-          <div className="text-center">
-            <img
-              src={logo}
-              className="w-75 m-4 img-fluid"
-              alt="Vegan jerky deathmatch logo"
-            />
-          </div>
-        </Link>
-        <hr />
+        <br/>
       </>
     );
   }
