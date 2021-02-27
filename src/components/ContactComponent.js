@@ -18,7 +18,7 @@ function Contact(props) {
           </p>
           <Button outline color="dark" size="lg" block>
             <a role="button" className="btn" href="mailto:ratt18@hotmail.com">
-              <h1 style={{color: '#ed2024'}}>Send us an email</h1>
+              <h1 style={{ color: "#ed2024" }}>Send us an email</h1>
             </a>
           </Button>
           <br />

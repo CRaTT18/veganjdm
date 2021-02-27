@@ -30,10 +30,10 @@ function Match(props) {
             alt="Far west fungi & Foreal Jerky Pieces"
           />
           <p className="text-justify">Match 3 report coming soon.</p>
-          <h2 className="text-center" style={{color: '#ed2024'}}>
+          <h2 className="text-center" style={{ color: "#ed2024" }}>
             Winner:
           </h2>
-          <hr/>
+          <hr />
           <h2 className="text-center">
             Perky Jerky vs. Far West Fungi Mushroom Jerky
           </h2>
@@ -51,7 +51,7 @@ function Match(props) {
             alt="Far west fungi & Perky Jerky Pieces"
           />
           <p className="text-justify">Match 2 report coming soon.</p>
-          <h2 className="text-center" style={{color: '#ed2024'}}>
+          <h2 className="text-center" style={{ color: "#ed2024" }}>
             Winner:
           </h2>
           <hr />
@@ -82,7 +82,7 @@ function Match(props) {
             coconut meat surprise, only time will tell if they live to fight
             another day.
           </p>
-          <h2 className="text-center" style={{color: '#ed2024'}}>
+          <h2 className="text-center" style={{ color: "#ed2024" }}>
             Winner by brutal Knock Out: Louisville Vegan jerky Co.
           </h2>
           <hr />

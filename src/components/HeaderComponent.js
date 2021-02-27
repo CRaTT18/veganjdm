@@ -20,7 +20,7 @@ class Header extends Component {
   render() {
     return (
       <>
-      <Link to="/home">
+        <Link to="/home">
           <div className="text-center">
             <img
               src={logo}
@@ -98,7 +98,7 @@ class Header extends Component {
             </Collapse>
           </div>
         </Navbar>
-        <br/>
+        <br />
       </>
     );
   }
