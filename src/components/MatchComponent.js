@@ -29,7 +29,23 @@ function Match(props) {
             className="m-3 img-fluid"
             alt="Far west fungi & Foreal Jerky Pieces"
           />
-          <p className="text-justify">Match 3 report coming soon.</p>
+          <p className="text-justify">
+            The third Vegan Jerky Deathmatch installment saw a return of the
+            coconut kid to take on the peppered shiitake. While hopes were high
+            that Foreal's second fight would result in a modern day classic
+            match, it was not to be. The chili lime coconut jerky had a better
+            initial flavor and chew than its previous attempt however it still
+            tasted the canvas in the opening round. Far West Fungi's mushrooms
+            packed a salty, spicy punch and the shiitake gave it an added
+            thickness. That thickness resulted in near perfect chew that rivaled
+            the real thing. The fight was stopped in round 2 when it was clear
+            that the coconut was out classed and appeared unable to defend
+            itself. The referree from Cascade Lakes Brewing Co., Pineapple IPA
+            was perhaps the star of this match. An unexpected pineapple
+            sweetness paired well with the bitter IPA. It was reported that the
+            remaining shiitakes and the referee's 5 backups were seen leaving
+            the arena together.
+          </p>
           <h2 className="text-center" style={{ color: "#ed2024" }}>
             Winner: Far West Fungi's Shiitake Slayer!
           </h2>
