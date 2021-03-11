@@ -20,7 +20,7 @@ function Home(props) {
   return (
     <div className="container">
       <div className="row">
-        <div className="col-md m-1">
+        <div className="col m-1">
           <h1>Top 3 current pound for pound rankings:</h1>
           <Link to="/rankings">
             <CardDeck>
@@ -45,7 +45,11 @@ function Home(props) {
                 </CardImgOverlay>
               </Card>
               <Card className="homecard" style={{ width: "20rem" }}>
-                <CardImg width="100%" src={primal} alt="Primal Spirit Vegan Jerky" />
+                <CardImg
+                  width="100%"
+                  src={primal}
+                  alt="Primal Spirit Vegan Jerky"
+                />
                 <CardImgOverlay>
                   <CardTitle>#3: Primal Spirit Foods Primal Strips</CardTitle>
                 </CardImgOverlay>

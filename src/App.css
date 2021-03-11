@@ -1,22 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto&display=swap");
 
 body {
   font-family: "Permanent Marker", cursive;
 }
 
-.navbar-dark, .nav-link {
+.navbar-dark,
+.nav-link {
   background-color: #ed2024;
   font-size: 1.75rem;
   font-family: "Permanent Marker", cursive;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-family: "Permanent Marker", cursive;
 }
 
-p, li {
+p,
+li {
   font-family: Roboto, sans-serif;
   font-size: 1.25rem;
+}
+
+.homecard {
+  text-align: center;
 }
 
 .card-title {
@@ -27,11 +35,10 @@ p, li {
 .card-img-overlay .card-title {
   color: white;
   background-color: rgba(0, 0, 0, 0.5);
-}
-.row-content {
-  padding: 50px 0;
-  border-bottom: 1px ridge;
-  min-height: 200px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
 }
 
 .axe-small:hover {
@@ -44,11 +51,11 @@ p, li {
   animation: spin 1s linear 1;
 }
 
-@media only screen and (max-width : 767px) {
+@media only screen and (max-width: 767px) {
   .bigaxe {
-  display: none;
+    display: none;
   }
-  }
+}
 
 @keyframes spin {
   0% {
