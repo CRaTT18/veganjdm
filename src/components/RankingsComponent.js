@@ -78,6 +78,7 @@ function Rankings(props) {
         <div className="col">
           <h1>Rankings</h1>
           <p> Updated 2/21/21: A new top 3 entry!</p>
+          <hr />
         </div>
       </div>
       <div className="row">{rankings}</div>

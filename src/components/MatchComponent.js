@@ -31,7 +31,7 @@ function Match(props) {
           />
           <p className="text-justify">Match 3 report coming soon.</p>
           <h2 className="text-center" style={{ color: "#ed2024" }}>
-            Winner:
+            Winner: Far West Fungi's Shiitake Slayer!
           </h2>
           <hr />
           <h2 className="text-center">
@@ -50,9 +50,22 @@ function Match(props) {
             className="m-3 img-fluid"
             alt="Far west fungi & Perky Jerky Pieces"
           />
-          <p className="text-justify">Match 2 report coming soon.</p>
+          <p className="text-justify">
+            Vegan Jerky Deathmatch #2 saw Perky Jerky's soy based teriyaki
+            square off against Far West Fungi's spicy tree oyster mushroom
+            jerky. The first four rounds went back and fourth with exploratory
+            jabs being exchanged. The sweet pineapple ginger teriyaki caught the
+            taste buds attention while the texture and red pepper flake heat
+            swung the momentum in to the mushroom's corner. In the middle rounds
+            the machine processed like texture and appearance of the Perky Jerky
+            was visibly fatigued by the authentic meat-like texture and chew of
+            the mushroom. Perky Jerky's sweet teriyaki hook kept it in the fight
+            until the 10th round when it was overcome by the tree oyster's
+            natural balsamic brawling power. Far West Fungi showed why it's a
+            top 3 pound for pound favorite with this 10th round win by KO!
+          </p>
           <h2 className="text-center" style={{ color: "#ed2024" }}>
-            Winner:
+            Winner: Far West Fungi's Tree Oyster Mushroom Assasin!
           </h2>
           <hr />
           <h2 className="text-center">
@@ -83,7 +96,8 @@ function Match(props) {
             another day.
           </p>
           <h2 className="text-center" style={{ color: "#ed2024" }}>
-            Winner by brutal Knock Out: Louisville Vegan jerky Co.
+            Winner by brutal Knock Out: Louisville Vegan jerky Co. Black Pepper
+            Smoker!
           </h2>
           <hr />
         </div>
