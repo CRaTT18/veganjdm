@@ -47,7 +47,7 @@ function Match(props) {
             the arena together.
           </p>
           <h2 className="text-center" style={{ color: "#ed2024" }}>
-            Winner: Far West Fungi's Shiitake Slayer!
+            Winner by TKO: Far West Fungi's Shiitake Slayer!
           </h2>
           <hr />
           <h2 className="text-center">
